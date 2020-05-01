@@ -1,4 +1,4 @@
-module github.com/zpdev/zin_extension
+module github.com/zpdev/zin-extension
 
 go 1.14
 
